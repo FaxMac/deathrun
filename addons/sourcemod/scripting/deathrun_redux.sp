@@ -82,7 +82,7 @@ int dr_unbalance_def = 0;
 int dr_autobalance_def = 0;
 int dr_firstblood_def = 0;
 int dr_scrambleauto_def = 0;
-int dr_airdash_def = 0;
+int dr_airdash_def = 1;
 int dr_push_def = 0;
 
 // ---- Plugin's Information ---------------------------------------------------
